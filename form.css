@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: slateblue;
+    text-decoration: underline;
+}
+.app{
+    border: 2px solid black;
+    margin-left: 250px;
+    background-color: slateblue;
+    color: white;
+    line-height: 30px;    
+}
+
+
